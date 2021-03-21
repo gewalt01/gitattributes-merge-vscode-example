@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "mechatroner.rainbow-csv",
+        "njpwerner.autodocstring",
+        "streetsidesoftware.code-spell-checker",
+        "eamodio.gitlens",
+        "coenraads.bracket-pair-colorizer-2",
+        "github.vscode-pull-request-github",
+        "shardulm94.trailing-spaces"
+    ]
+}
